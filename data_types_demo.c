@@ -5,7 +5,7 @@ int main()
 {
     int age = 18;
     float marks = 19.20;
-    char grade = A;
+    char grade = 'A';
 
     printf("%d\n", age);
     printf("%f\n", marks);
