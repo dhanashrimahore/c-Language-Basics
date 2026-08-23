@@ -11,8 +11,8 @@ int main() {
     printf("Enter your marks: ");
     scanf("%f", &marks);
 
-    printf("age=%d\n", age);
-    printf("marks=%f\n", marks);
+    printf("age = %d\n", age);
+    printf("marks = %f\n", marks);
 
     return 0;
 }
